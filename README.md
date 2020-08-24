@@ -17,8 +17,8 @@ ejs와 mongoDB가 같이 사용됨에 따라서 필요한 value를 어떻게 만
 
 # 사용방법
 - 원하는 할 일 목록을 만들고 추가할 수 있습니다.
-[link](https://arcane-castle-99536.herokuapp.com/)
+[link](https://todolist-jehyuksong.herokuapp.com/)
 - 도메인 가장 마지막에 원하는 영어 아무거나 써서 들어가서 만들어서 사용도 가능합니다.
 
-ex> (https://arcane-castle-99536.herokuapp.com/jehyuksong)https://arcane-castle-99536.herokuapp.com/jehyuksong
+ex> https://todolist-jehyuksong.herokuapp.com/
 
